@@ -1,1 +1,2 @@
 This file is for testing whether git has been set up or not.
+git is tracking changes or not.
